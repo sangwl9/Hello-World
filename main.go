@@ -12,6 +12,10 @@ func main() {
 
 	fmt.Println(calculator.Multyply(2, 2))
 	fmt.Println(calculator.Multyply(2, 2))
+
+	fmt.Println(calculator.Multyply(500, 200))
+	fmt.Println(calculator.Multyply(1726, 8888))
+
 	fmt.Println(calculator.LenAndUpper("Sangwoo Lee"))
 	calculator.RepeatMe("aaa", "bbbb", "cccc", "dddd")
 	calculator.RepeatMe("aaa", "bbbb", "cccc", "dddd")
