@@ -6,9 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("New world")
-	fmt.Println("New world")
-	fmt.Println("New world")
 
 	fmt.Println(calculator.Multyply(2, 2))
 	fmt.Println(calculator.Multyply(2, 2))
