@@ -14,7 +14,7 @@ func TestCalculator(t *testing.T) {
 
 	ans = calculator.Multyply(10, 10)
 
-	if ans != 4 {
+	if ans != 100 {
 		t.Errorf("Multyply(10, 10) = %d; want 4\n", ans)
 	}
 }
