@@ -21,4 +21,7 @@ func main() {
 	fmt.Println(calculator.LenAndUpper("k Lee"))
 	calculator.RepeatMe("aaa", "bbbb", "cccc", "dddd")
 	calculator.RepeatMe("aaa", "bbbb", "cccc", "dddd")
+
+	calculator.RepeatMe("kkkkk", ":::::", "wwww", "qqqq")
+	calculator.RepeatMe("nnnn", "bdddbbb", "ccdddcc", "ddd")
 }
