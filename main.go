@@ -14,10 +14,6 @@ func main() {
 	fmt.Println(calculator.LenAndUpper("w Lee"))
 	fmt.Println(calculator.LenAndUpper("k Lee"))
 
-	fmt.Println(calculator.LenAndUpper("Sangwoo Lee"))
-	fmt.Println(calculator.LenAndUpper("w Lee"))
-	fmt.Println(calculator.LenAndUpper("k Lee"))
-
 	calculator.RepeatMe("aaa", "bbbb", "cccc", "dddd")
 	calculator.RepeatMe("aaa", "bbbb", "cccc", "dddd")
 
