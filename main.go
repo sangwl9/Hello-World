@@ -10,8 +10,4 @@ func main() {
 	fmt.Println(calculator.Multyply(2, 2))
 
 	fmt.Println(calculator.Multyply(1857, 6589))
-
-	fmt.Println(calculator.LenAndUpper("Sangwoo Lee"))
-	fmt.Println(calculator.LenAndUpper("w Lee"))
-	calculator.RepeatMe("aaa", "bbbb", "cccc", "dddd")
 }
