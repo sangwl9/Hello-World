@@ -1,4 +1,4 @@
-FROM golang:alpine AS builder
+FROM k3d-myregistry.localhost:5000/golang:1.14 AS builder
 
 ENV GO111MODULE=on \
     CGO_ENABLED=0 \
